@@ -74,10 +74,11 @@ Choose your path. Each persona channels 5 master practitioners in their domain.
 | 🎨 **[Creative Director](personas/creative-director/)** | ✅ Ready | Design systems, brand identity, motion, creative tech | [Use This](personas/creative-director/) |
 | 📊 **[Data Scientist](personas/data-scientist/)** | ✅ Ready | ML, analytics, predictions, ethics, production | [Use This](personas/data-scientist/) |
 | 🔒 **[Cybersecurity Expert](personas/cybersecurity-expert/)** | ✅ Ready | Defense in depth, zero trust, compliance, DFIR | [Use This](personas/cybersecurity-expert/) |
+| 🎯 **[Web Conversion Architect](personas/web-conversion-architect/)** | 🆕 New | High-converting websites, anti-AI-slop, CRO | [Use This](personas/web-conversion-architect/) |
 
 </div>
 
-> 🎉 **COMPLETE! All 5 personas are ready!** 🎉
+> 🎉 **6 Personas Ready! The Ultimate AI Skill System!** 🎉
 
 > 💡 **Want a new persona?** [Contribute](CONTRIBUTING.md) or [request it](https://github.com/RatioArtificiosa/You-Have-Lived-5-Lives/issues)!
 
