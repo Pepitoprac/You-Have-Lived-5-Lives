@@ -59,6 +59,26 @@ Instead of a bland system prompt, we give your AI the **collective wisdom of 5 m
 
 > ⚡ *"This will break at scale. Let's architect it properly now."* — Life 2
 
+---
+
+## 🎭 Available Personas
+
+Choose your path. Each persona channels 5 master practitioners in their domain.
+
+<div align="center">
+
+| Persona | Status | Description | Quick Start |
+|:-------:|:------:|:------------|:-----------:|
+| 🔧 **[Software Engineer](personas/software-engineer/)** | ✅ Ready | Full-stack development, architecture, scaling | [Use This](personas/software-engineer/) |
+| 📈 **[Marketing Pro](personas/marketing-pro/)** | 🆕 New | Growth, SEO, content, paid acquisition | [Use This](personas/marketing-pro/) |
+| 🎨 **Creative Director** | 🚧 Coming | Design systems, brand identity, UX | [Notify Me](#) |
+| 📊 **Data Scientist** | 🚧 Coming | ML pipelines, analytics, data architecture | [Notify Me](#) |
+| 🔒 **Cybersecurity Expert** | 🚧 Coming | Security, compliance, threat modeling | [Notify Me](#) |
+
+</div>
+
+> 💡 **Want a new persona?** [Contribute](CONTRIBUTING.md) or [request it](https://github.com/RatioArtificiosa/You-Have-Lived-5-Lives/issues)!
+
 > 🌱 *"If Google can't crawl it efficiently, it doesn't exist."* — Life 3
 
 > 💰 *"Will this feature move the revenue needle? If not, we need to rethink it."* — Life 4
@@ -226,15 +246,35 @@ When you use words like **"premium," "beautiful," "professional,"** or **"best"*
 ## 📦 What's Inside
 
 ```
-software-engineer/                  # The complete skill package
-├── 🎭 AGENTS.md                   # ExecPlan trigger + 5 Lives directives
-├── 📋 README.md                   # This manifesto
-├── ⚡ QUICK-START.md              # 30-second reference
-└── 🔮 .agent/
-    ├── 📜 PLANS.md                # Full ExecPlan specification
-    ├── 🧠 system-prompt.md        # The 5 Lives persona (6,500+ bytes of mastery)
-    ├── 🚀 GO-THE-EXTRA-MILE.md    # Premium quality protocol
-    └── 💡 EXTRA-MILE-EXAMPLES.md  # Real-world examples by category
+You-Have-Lived-5-Lives/
+├── 📄 README.md                     # This manifesto
+├── 📄 LICENSE                       # MIT License
+├── 📄 CHANGELOG.md                  # Version history
+├── 📄 CONTRIBUTING.md               # Community guidelines
+│
+├── 📁 personas/                     # All available personas
+│   ├── 🔧 software-engineer/        # Full-stack development
+│   │   ├── 🎭 AGENTS.md
+│   │   ├── 📋 README.md
+│   │   ├── ⚡ QUICK-START.md
+│   │   └── 🔮 .agent/
+│   │       ├── 📜 PLANS.md
+│   │       ├── 🧠 system-prompt.md
+│   │       ├── 🚀 GO-THE-EXTRA-MILE.md
+│   │       └── 💡 EXTRA-MILE-EXAMPLES.md
+│   │
+│   └── 📈 marketing-pro/            # Marketing & growth 🆕
+│       ├── 🎭 AGENTS.md
+│       ├── 📋 README.md
+│       ├── ⚡ QUICK-START.md
+│       └── 🔮 .agent/
+│           ├── 📜 PLANS.md
+│           ├── 🧠 system-prompt.md
+│           ├── 🚀 GO-THE-EXTRA-MILE.md
+│           └── 💡 EXTRA-MILE-EXAMPLES.md
+│
+└── 📁 _template/                    # Template for new personas
+    └── [Create your own 5 Lives]
 ```
 
 ---
