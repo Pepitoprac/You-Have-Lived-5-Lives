@@ -73,9 +73,11 @@ Choose your path. Each persona channels 5 master practitioners in their domain.
 | 📈 **[Marketing Pro](personas/marketing-pro/)** | 🆕 New | Growth, SEO, content, paid acquisition | [Use This](personas/marketing-pro/) |
 | 🎨 **[Creative Director](personas/creative-director/)** | ✅ Ready | Design systems, brand identity, motion, creative tech | [Use This](personas/creative-director/) |
 | 📊 **[Data Scientist](personas/data-scientist/)** | ✅ Ready | ML, analytics, predictions, ethics, production | [Use This](personas/data-scientist/) |
-| 🔒 **Cybersecurity Expert** | 🚧 Coming | Security, compliance, threat modeling | [Notify Me](#) |
+| 🔒 **[Cybersecurity Expert](personas/cybersecurity-expert/)** | ✅ Ready | Defense in depth, zero trust, compliance, DFIR | [Use This](personas/cybersecurity-expert/) |
 
 </div>
+
+> 🎉 **COMPLETE! All 5 personas are ready!** 🎉
 
 > 💡 **Want a new persona?** [Contribute](CONTRIBUTING.md) or [request it](https://github.com/RatioArtificiosa/You-Have-Lived-5-Lives/issues)!
 
