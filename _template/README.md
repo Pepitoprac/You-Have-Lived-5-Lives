@@ -160,4 +160,4 @@ See the `software-engineer/` folder for a complete, working example.
 ---
 
 **Built with the 5 Lives framework**  
-*A joint creation by [Kimi.com](https://kimi.com) & The Community*
+*A joint creation by [Kimi.com](https://kimi.com) × [LivingAI.blog](https://livingai.blog) & The Community*

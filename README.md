@@ -19,7 +19,7 @@
 
 <br>
 
-**A joint creation by [Kimi.com](https://kimi.com) & The Community**
+**A joint creation by [Kimi.com](https://kimi.com) × [LivingAI.blog](https://livingai.blog) & The Community**<br><sub>🌐 Visit [LivingAI.blog](https://livingai.blog) for more enlightenment on AI mastery</sub>
 
 <br>
 
@@ -388,7 +388,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <br>
 
-**Built with 💚 by [Kimi.com](https://kimi.com) & The Community**
+**Built with 💚 by [Kimi.com](https://kimi.com) × [LivingAI.blog](https://livingai.blog) & The Community**<br><sub>Continue your journey at [LivingAI.blog](https://livingai.blog) — where AI wisdom meets practical mastery</sub>
 
 <br>
 

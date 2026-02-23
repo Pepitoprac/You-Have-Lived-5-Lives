@@ -74,4 +74,4 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
-*A joint creation by [Kimi.com](https://kimi.com) & The Community*
+*A joint creation by [Kimi.com](https://kimi.com) × [LivingAI.blog](https://livingai.blog) & The Community*
